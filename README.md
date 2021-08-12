@@ -36,7 +36,7 @@ $ python <your code file>
 ## Setup
 
 The following commands given above will only work if you have you code file in the same directory as module.py file
-Otherwise you can add module.py to environment variables and you should have no problems
+Otherwise you can add module.py to enviorment variables and you should have no problems
 
 
 
