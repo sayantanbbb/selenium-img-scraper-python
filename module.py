@@ -60,7 +60,7 @@ def search(query):
     get_google_url(query)
     urls=[]
     p=len(urls)
-    for x in range(10):
+    while True:
       scroll()
       press_more_images()
       urlst=scan_urls()
