@@ -9,7 +9,7 @@ This is an module which may help you to scrape images from google using selenium
 
 ```
 from module import *
-# Loader your driver through required code
+# Load your driver through required code
 #webdriver_service = service.Service(r'C:\Users\USER\AppData\Local\Programs\Opera\77.0.4054.254\operadriver.exe')
 #webdriver_service.start()
 #capabilities = {
