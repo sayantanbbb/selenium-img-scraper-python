@@ -35,7 +35,7 @@ $ python <your code file>
 ```
 ## Setup
 
-The following commands given above will only work if you have you code file in the same directory as module.py file
+The following commands given above will only work if you have your code file in the same directory as module.py file
 Otherwise you can add module.py to enviorment variables and you should have no problems
 
 
