@@ -33,6 +33,11 @@ $ wget https://raw.githubusercontent.com/sayantanbbb/selenium-img-scraper-python
 $ pip install -r requirements.txt
 $ python <your code file>
 ```
+## Setup
+
+The following commands given above will only work if you have you code file in the same directory as module.py file
+Otherwise you can add module.py to environment variables and you should have no problems
+
 
 
 
